@@ -22,7 +22,7 @@ Supports adding and deleting events on any date.
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/react-event-calendar.git
+   git clone https://github.com/Haranarayanakarthik/event-calender.git
    cd react-event-calendar
 2 .Install dependencies:
 
