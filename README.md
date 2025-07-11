@@ -4,7 +4,6 @@ A simple and responsive event calendar built with React and Material UI.
 Supports adding and deleting events on any date.
 
 ## Features
-
 - View monthly calendar with day names  
 - Add events to specific dates  
 - Delete events from dates  
